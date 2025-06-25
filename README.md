@@ -4,6 +4,8 @@
 **Affiliation:** University of Illinois at Urbana-Champaign  
 **Status:** V1.0.0 Complete
 
+**View Project** [**Here**](https://crypto-risk-engine.lovable.app/)
+
 ---
 
 ## Project Overview
